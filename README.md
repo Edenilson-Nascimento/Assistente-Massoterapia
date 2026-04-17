@@ -135,8 +135,7 @@ Este projeto está sob a licença MIT.
 
 **Edenilson Nascimento**
 
-* LinkedIn: (adicione aqui)
-* GitHub: (adicione aqui)
+* LinkedIn: https://www.linkedin.com/in/edenilson-nascimento-dev/
 
 ---
 
