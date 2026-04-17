@@ -110,7 +110,6 @@ streamlit run app.py
 - Geração de protocolos personalizados
 - Exportação em PDF
 
----
 
 ## 📋 Roadmap
 
