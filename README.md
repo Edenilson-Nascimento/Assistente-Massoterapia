@@ -103,6 +103,16 @@ streamlit run app.py
 
 ---
 
+## 🏷️ Versão
+
+### v1.0 - Primeira versão funcional
+- Assistente com IA para dúvidas em massoterapia
+- Geração de protocolos personalizados
+- Exportação em PDF
+```
+
+---
+
 ## 📋 Roadmap
 
 * [ ] Histórico de atendimentos
@@ -110,6 +120,7 @@ streamlit run app.py
 * [ ] Cadastro de terapeutas
 * [ ] Personalização da IA por perfil
 * [ ] Deploy online
+* [ ] Correção da formatação do pdf 
 
 ---
 
