@@ -109,7 +109,6 @@ streamlit run app.py
 - Assistente com IA para dúvidas em massoterapia
 - Geração de protocolos personalizados
 - Exportação em PDF
-```
 
 ---
 
